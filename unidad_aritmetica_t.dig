@@ -62,7 +62,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>2</int>
+          <int>3</int>
         </entry>
       </elementAttributes>
       <pos x="-380" y="700"/>
@@ -208,11 +208,11 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>2</string>
+          <string>3</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>1,1</string>
+          <string>1,1,1</string>
         </entry>
       </elementAttributes>
       <pos x="-340" y="700"/>
@@ -240,7 +240,7 @@
           <string>OP</string>
         </entry>
       </elementAttributes>
-      <pos x="-300" y="720"/>
+      <pos x="-320" y="740"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -411,10 +411,6 @@
     <wire>
       <p1 x="140" y="400"/>
       <p2 x="200" y="400"/>
-    </wire>
-    <wire>
-      <p1 x="-320" y="720"/>
-      <p2 x="-300" y="720"/>
     </wire>
     <wire>
       <p1 x="200" y="-180"/>
